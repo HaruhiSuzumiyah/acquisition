@@ -40,7 +40,6 @@ const int kThrottleRequests = 30;
 const int kThrottleSleep = 60;
 const int maxThrottleRequests = 4;
 const int maxThrottleSleep = 1900;
-bool hitCap = false;
 
 const int kMaxCacheSize = (1000*1024*1024); // 1GB
 
